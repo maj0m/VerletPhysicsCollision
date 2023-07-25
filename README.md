@@ -1,2 +1,2 @@
 # VerletPhysicsCollision
-Simulating circle-circle collisions using Verlet integration and spatial partitioning
+Simulating circle-circle collisions with Verlet physics and spatial partitioning
